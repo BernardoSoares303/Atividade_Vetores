@@ -12,13 +12,13 @@ public class Atividade2
 
     public static int MenorElemento(int[] vetor)
     {
-        int menor= vetor[0];
+        int posMenor = 0;
         for(int i = 0; i < vetor.Length; i++)
         {
-            if(vetor[i] < menor)
-                menor = i;
+            if(vetor[i] < vetor[posMenor])
+                posMenor= i;
         }
 
-        return menor;
+        return posMenor;
     }
 }
