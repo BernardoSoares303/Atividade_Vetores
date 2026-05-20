@@ -1,0 +1,15 @@
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\bin\Debug\net9.0\Atividade_Vetores.exe
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\bin\Debug\net9.0\Atividade_Vetores.deps.json
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\bin\Debug\net9.0\Atividade_Vetores.runtimeconfig.json
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\bin\Debug\net9.0\Atividade_Vetores.dll
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\bin\Debug\net9.0\Atividade_Vetores.pdb
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\Atividade_Vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\Atividade_Vetores.AssemblyInfoInputs.cache
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\Atividade_Vetores.AssemblyInfo.cs
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\Atividade_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\Atividade_Vetores.sourcelink.json
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\Atividade_Vetores.dll
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\refint\Atividade_Vetores.dll
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\Atividade_Vetores.pdb
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\Atividade_Vetores.genruntimeconfig.cache
+C:\Users\1663209\Documents\bernardp\20_05\Atividade_Vetores\obj\Debug\net9.0\ref\Atividade_Vetores.dll
