@@ -16,7 +16,7 @@ public class Atividade2
         for(int i = 0; i < vetor.Length; i++)
         {
             if(vetor[i] < menor)
-                menor = vetor[i];
+                menor = i;
         }
 
         return menor;

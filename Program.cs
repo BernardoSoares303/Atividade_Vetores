@@ -22,6 +22,6 @@
 
         Console.WriteLine();
 
-        Console.WriteLine($"O menor numero desse vetor é {Atividade2.MenorElemento(VetorAtividade2)}");
+        Console.WriteLine($"O menor numero desse vetor está na posição {Atividade2.MenorElemento(VetorAtividade2)} do vetor!");
     }
 }
